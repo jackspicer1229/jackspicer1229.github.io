@@ -1,7 +1,7 @@
 body {
   margin: 0px;
   background-color: black;
-  background: url("profile_picture.jpg");
+  background: url("profile_picture.jpg") no-repeat top right;
   background-size: cover;
   margin: 0 0 0 auto;
   font-family: Helvetica Neue, Helvetica;
