@@ -1,6 +1,8 @@
 body {
   margin: 0px;
   background-color: black;
+  background: url("profile_picture.jpg");
+  margin: 0 0 0 auto;
   font-family: Helvetica Neue, Helvetica;
   color: white; }
   body a {
@@ -8,12 +10,12 @@ body {
     text-decoration: none; }
     body a:hover {
       color: yellow; }
-  body .content {
+  /* body .content {
     background: url("profile_picture.jpg") no-repeat top right;
     height: 2848px;
     width: 4272px;
     margin: 0 0 0 auto;
-    padding-left: 50px; }
+    padding-left: 50px; } */
     body .content h1 {
       font-weight: normal;
       padding: 25px 0 0;
